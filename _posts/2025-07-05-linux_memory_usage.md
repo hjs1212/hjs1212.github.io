@@ -1,12 +1,12 @@
 ---------------------
-layout: "post"
+layout: post
 title: "리눅스 환경에서 단말의 메모리 사용량 분석"
 author: "hjs1212"
 categotries:
-    - "linux"
+    - linux
 tags:
-    - "memory"
-    - "troubleshooting"
+    - memory
+    - troubleshooting
 Data: 2025-07-25
 ---------------------
 
